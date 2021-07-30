@@ -1,0 +1,3 @@
+ Run this notebook on Google colab platform.
+ select GPU as a runtime type.
+ the resulting csv file will be stored on the folder where this notebook is placed.

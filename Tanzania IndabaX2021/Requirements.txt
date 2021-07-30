@@ -1,0 +1,7 @@
+#########requirement to run my notebook ############
+ 1. Evironment: google colab
+ 2. data: contain all datasets used to develop my solution
+ 3. submission: contaion produced result when you run the notebook
+ 3. notebook : contain the notebook used to produce the results
+
+----------    Thank you  ------------------

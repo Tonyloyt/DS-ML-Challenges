@@ -1,0 +1,15 @@
+#### Top things i learned on umojaHack2021
+1.make baseline and submit early as possible
+2.understand the problem context and write down assumptions before you lookup
+ the data sets
+3.understand the variable/features meaning and effect to the target
+4.use profiling for fast Analysis
+5.Good coding arrangement and practice to follow ML flow
+6.use varibles/feature that directly affect the target to generate possible 
+new feature
+7.used ID and categorical features to create new features
+8.model the first model with plain-parameter algorithms
+9.Try to use parameters such as iterations and overfitting detectors and 
+learning rate
+10.Train the model with whole training set data.
+********* Don't forget to set SEED for result consistency *******
